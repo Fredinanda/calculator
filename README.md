@@ -1,2 +1,2 @@
 # calculator
-확인
+다시 확인
